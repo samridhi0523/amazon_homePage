@@ -20,7 +20,7 @@
   width: 100%;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url("amazon-logo.png");
+  background-image: url("assests/amazon-logo.png");
 }
 .border {
   border: 2px solid transparent;
@@ -143,7 +143,7 @@
 
 /* hero section */
 .hero_section {
-  background-image: url("amazon_backgr.jpg");
+  background-image: url("assests/amazon_backgr.jpg");
   height: 350px;
   background-size: cover;
   display: flex;
@@ -258,7 +258,7 @@ ul a {
   align-items: center;
 }
 .logo_foot {
-  background-image: url("amazon-logo.png");
+  background-image: url("assests/amazon-logo.png");
   background-size: cover;
   height:35px;
   width: 120px;
